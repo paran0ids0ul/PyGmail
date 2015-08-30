@@ -36,4 +36,7 @@ ozylol@devbot:~/Desktop/PyGmail# sudo pip install colorama
 The current passlist is fairly tiny so I will be adding more passwords in the future.
 
 ###Timeouts
-I'm using ```smtplib``` so timeouts in the session happen after around 8-9 times for one email. But the other than that, the script works fine.  
+I'm using ```smtplib``` so timeouts in the session happen after around 8-9 times for one email. But the other than that, the script works fine. Also ```smtpserver``` sucks, so later updates will fix that problem too.
+
+###Other shit
+You dont need the wordlist, I just put it in there because slowly I will add more and more passwords to the current ```passlist```.
