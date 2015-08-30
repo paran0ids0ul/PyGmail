@@ -105,11 +105,10 @@ def begin_brute_force():
 	    except smtplib.SMTPAuthenticationError:
 	    	print Fore.CYAN + '[!] Trying: %s' % password
 
-
 	    except smtplib.SMTPServerDisconnected:
 	    	print '\n\t[?] Connection unexpectedly closed.'
 	    	sys.exit()
-
+	    	
 	    except KeyboardInterrupt:
 	    	raw_input("\n\t[!] Quiting Session...")
 	    	print '\n[!] Session Closed.'
