@@ -99,7 +99,7 @@ def begin_brute_force():
 	        	break;
 	        	sys.exit()
 	        else:
-	        	print '\n\t[!] Error'
+	        	print '\n\t[?] Error. Something went wrong?'
 	        	sys.exit()
 
 	    except smtplib.SMTPAuthenticationError:
