@@ -27,6 +27,11 @@ ozylol@devbot:~/Desktop/PyGmail# python pygmail.py
 Gmail Account: 
 ```
 
+###Install
+```` 
+ozylol@devbot:~/Desktop/PyGmail# sudo pip install colorama
+```
+
 ###Adding more passwords
 The current passlist is fairly tiny so I will be adding more passwords in the future.
 
