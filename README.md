@@ -5,9 +5,8 @@ PyGmail is a Pen-Testing BruteForce program.
 Currently PyGmail has an intergrated passlist. 
 
 ###Run PyGmail
-ozylol@devbot:~/Desktop/PyGmail# python pygmail.py
-
 ```
+ozylol@devbot:~/Desktop/PyGmail# python pygmail.py
 
  /$$$$$$$             /$$$$$$                          /$$ /$$
 | $$__  $$           /$$__  $$                        |__/| $$
